@@ -1,8 +1,6 @@
   # t.me/MohsenLinux
   # https://github.com/mohsentavana
   # Enjoy for Free 
-  
-  # first import  
 
 import pygame
 
